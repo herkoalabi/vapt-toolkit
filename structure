@@ -1,0 +1,11 @@
+VAPT-Toolkit/
+│
+├── scanners/
+│   ├── sql_injection_scanner.py
+│   ├── xss_scanner.py
+│
+├── reporting/
+│   ├── report_generator.py
+│
+├── toolkit.py  # Main script to run the toolkit
+└── README.md   # Documentation
